@@ -20,3 +20,13 @@
 - 📫 How to reach me: rsnavin1@gmail.com<br>
 - 😄 Pronouns: GUNDA<br>
 - ⚡ Fun fact: I'm a Developer<br>
+
+
+##TOOLS UNDER BELT##
+<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+(https://github-readme-stats.vercel.app/api?username=tathagat2006&show_icons=true&hide_border=true)
