@@ -1,6 +1,6 @@
 ### Hi there I am !!Navin!! 👋
 
- <img align="center" alt="Navin's LinkdeIN" width="22px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+ <img align="center" alt="Navin's LinkdeIN" width="22px" src="https://avatars1.githubusercontent.com/u/61737492?s=460&u=f5a762f2af908b2144cf9e0b89f089c04bac219b&v=4" />
 
 <a href="https://twitter.com/r_s_n_a_v_i_n">
   <img align="left" alt="Navin\ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
