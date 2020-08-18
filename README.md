@@ -11,7 +11,7 @@
 <br>
 
 
-<img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 <br>
 - 🔭 I’m currently working on a real time cricket auction web app using React and Socket.io<br>
 - 🌱 I’m currently learning graphQL<br>
